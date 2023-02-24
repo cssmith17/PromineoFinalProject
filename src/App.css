@@ -1,0 +1,25 @@
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  .on {
+    color: goldenrod;
+  }
+  .off {
+    color: #ccc;
+  }
+.star {
+    font-size: 2em;
+}
+
+.star-icon {
+  font-size: 1.5em;
+  color: goldenrod;
+}
+
+#emboss {
+  text-shadow: -2px 2px 4px rgba(0, 0, 0, 0.5),
+                2px -2px 0 rgba(255, 255, 255, 0.9);
+}
